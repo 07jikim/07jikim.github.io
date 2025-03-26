@@ -12,7 +12,7 @@ I have expertise in various molecular biology techniques and bioinformatics skil
 
 ### MSc in Agricultural Convergence Technology  
 **Jeonbuk National University** | 2023 – 2025  
-- **Proposal Title:** *Virome analysis of* Varroa destructor *from South Korea*  
+- **Proposal Title:** Virome analysis of *Varroa destructor* from South Korea  
 - **Advisor:** [Prof. June-Sun Yoon](https://www.yoon-lab.com/)
 
 ### BSc in Agricultural Biology  
