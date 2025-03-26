@@ -46,4 +46,7 @@ I have expertise in various molecular biology techniques and bioinformatics skil
 
 ## 📫 Contact
 
-Feel free to reach out via [email](mailto:07jikim@gmail.com) or connect through [Research gate](https://www.researchgate.net/profile/Ji-Young-Kim-34?ev=hdr_xprf/) (update with your actual contact info).
+Feel free to reach out via
+- Email: [07jikim@gmail.com](mailto:07jikim@gmail.com)  
+- Homepage: [07jikim.github.io/jiyoung_Cv](https://07jikim.github.io/jiyoung_Cv/)  
+- ResearchGate: [Ji-Young Kim](https://www.researchgate.net/profile/Ji-Young-Kim-34?ev=hdr_xprf/)
