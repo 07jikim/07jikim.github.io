@@ -46,4 +46,4 @@ I have expertise in various molecular biology techniques and bioinformatics skil
 
 ## 📫 Contact
 
-Feel free to reach out via [email](mailto:your.email@example.com) or connect through [LinkedIn](https://www.linkedin.com/) (update with your actual contact info).
+Feel free to reach out via [email](mailto:07jikim@gmail.com) or connect through [Research gate](https://www.researchgate.net/profile/Ji-Young-Kim-34?ev=hdr_xprf/) (update with your actual contact info).
