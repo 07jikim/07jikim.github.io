@@ -5,14 +5,12 @@ search: false
 
 @charset "utf-8";
 
-// 알-폴리오 또는 미니멀 미스테이크 스킨에 따라 자동 적용
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // 메인 구성 요소 포함
+@import "minimal-mistakes"; // main partials
 
-// 아래는 선택사항 (프로필 이미지 조금 키우기)
 .author__avatar {
-  width: 150px;
-  height: 150px;
+  width: 160px;     // 기본은 100px, 더 크게
+  height: 160px;
   border-radius: 50%;
   margin-bottom: 1rem;
 }
