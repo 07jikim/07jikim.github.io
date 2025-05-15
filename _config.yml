@@ -14,6 +14,12 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+font:
+  heading: "Merriweather"
+  body: "Merriweather"
+  nav: "Merriweather"
+  mono: "Courier New"
+  
 # Site Settings
 locale                   : "en-US"
 rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
