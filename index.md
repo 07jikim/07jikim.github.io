@@ -1,15 +1,16 @@
 ---
 layout: home
 title: "Welcome"
-permalink: /
 author_profile: true
 ---
 
-Hi, I'm **Ji-Young Kim**, a bioinformatics researcher exploring:
+Hi, I’m <strong>Ji-Young Kim</strong>, a bioinformatics researcher exploring:
 
-- 🧬 Insect Viromes and Virus Discovery  
-- 🔄 Host–Virus Coevolution and Horizontal Gene Transfer  
-- 🐝 Virus–Microbiome Interaction in Insects  
+<ul>
+  <li>🧬 <strong>Insect Viromes and Virus Discovery</strong></li>
+  <li>🔁 <strong>Host–Virus Coevolution and Horizontal Gene Transfer</strong></li>
+  <li>🐝 <strong>Virus–Microbiome Interaction in Insects</strong></li>
+</ul>
 
-Welcome to my academic homepage.
+Welcome to my academic homepage.  
 You can find my publications, research interests, and contact information here.
