@@ -1,31 +1,18 @@
 ---
-# Only the main Sass file needs front matter
+# Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
+// 알-폴리오 또는 미니멀 미스테이크 스킨에 따라 자동 적용
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // 메인 구성 요소 포함
 
-// 프로필 이미지 크기 조정 (선택사항)
+// 아래는 선택사항 (프로필 이미지 조금 키우기)
 .author__avatar {
-  width: 160px;
-  height: 160px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   margin-bottom: 1rem;
-}
-
-// ✨ 레이아웃 최대 폭을 제한하고 가운데 정렬
-.page,
-.layout--single .page,
-.page__inner,
-.initial-content {
-  max-width: 860px;
-  margin: 0 auto;
-  padding: 0 2rem; // 모바일에서 여백 유지
-}
-
-.page__content {
-  max-width: 100%;
 }
