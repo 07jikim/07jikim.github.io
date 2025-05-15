@@ -7,3 +7,10 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.author__avatar {
+  width: 160px;     // 기본은 100px, 더 크게
+  height: 160px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
