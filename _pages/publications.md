@@ -10,46 +10,25 @@ author_profile: true
 ---
 
 ### 🦗 **Crisis in South Korean cricket farms: Occurrence of _Gryllus bimaculatus_ densovirus and its spread**  
-**Kim JY\***, Koo HJ, Kim CO, Baek JH, Park K, Yoon JS  
-📄 *Journal of Insect Biotechnology and Sericology*, 2024  
-🔗 [Article (KCI)](https://www.koreascience.or.kr/article/JAKO202417358503251.page)  
-- Identified and characterized a densovirus causing mass mortality in farmed crickets  
-- Genome assembly and structural domain annotation  
-- Contributed as co–first author
+Kim E\*, Koo HJ\*, **Kim JY\***, Baek J, Kim CO, Park K, Yoon JS  
+📄 *Journal of Insects as Food and Feed*, 2024, 1(aop), 1–12  
+🔗 [Publisher](https://doi.org/placeholder-link)  
+**IF (4.7)** | Top 5% most-cited paper in the field  
+🧪 *Contributed to metatranscriptomic data analysis and viral genome structure interpretation*
 
 ---
 
-### 🦟 **Genomic characterization of a novel _Oryctes rhinoceros nudivirus_ in Korean beetles**  
-**Kim JY\***, Koo HJ, Baek JH, Yoon JS  
-📄 *Under submission*, 2024  
-- Virome analysis and metagenomic assembly of nudivirus  
-- Comparative genomics with other *OrNV* strains  
-- First comprehensive sequence from Korean populations
-
----
-
-## 🤝 Co-Authored Publications
-
----
-
-### 🐝 **Viral community analysis of _Varroa destructor_ mites in six South Korean apiaries**  
-Koo HJ, **Kim JY**, Baek JH, Yoon JS  
-📄 *In preparation*, 2025  
-- Identified >10 viruses in *Varroa* using SMARTer smRNA-Seq  
-- Notable detection of plant viruses and honeybee pathogens  
-- Contributed to pipeline optimization and viral classification
-
----
-
-### 📦 **Metatranscriptomic analysis of virus-host interaction in scale insects**  
-**Kim JY**, Na MJ, Park K, Yoon JS  
-📄 *Drafting*, 2025  
-- Focused on horizontal gene transfer from viruses to insect hosts  
-- Discovered novel viral RNA in Maconellicoccus *spp.*
+### 🪲 **Complete genome sequence of an _Oryctes rhinoceros nudivirus_ isolated from Korean rhinoceros beetles (_Trypoxylus dichotomus_)**  
+Kim E\*, **Kim JY\***, Kim W, Lee S, Park KH, Yoon JS  
+📄 *Virus Research*, 2023, Vol. 335, 199167  
+🔗 [DOI](https://doi.org/10.1016/j.virusres.2023.199167)  
+**IF (5.0)**  
+🧬 *Virome assembly, annotation, and sequence validation from metagenomic data*
 
 ---
 
 ## 📌 Notes
 
-- `\*` indicates co–first authorship  
-- For a full list of manuscripts and preprints, please refer to my [Google Scholar](https://scholar.google.com) or [ORCID](https://orcid.org/0000-0000-0000-0000)
+- `\*` indicates **co–first authorship**
+- Links will be updated with final DOI or article page
+- You can also find my works via [Google Scholar](https://scholar.google.com) or [ORCID](https://orcid.org/0000-0000-0000-0000)
