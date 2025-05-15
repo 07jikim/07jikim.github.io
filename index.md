@@ -1,16 +1,35 @@
 ---
-layout: home
+layout: single
 title: "Welcome"
-author_profile: true
+permalink: /
+author_profile: false
+classes: wide
 ---
 
-Hi, I’m <strong>Ji-Young Kim</strong>, a bioinformatics researcher exploring:
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
-<ul>
-  <li>🧬 <strong>Insect Viromes and Virus Discovery</strong></li>
-  <li>🔁 <strong>Host–Virus Coevolution and Horizontal Gene Transfer</strong></li>
-  <li>🐝 <strong>Virus–Microbiome Interaction in Insects</strong></li>
-</ul>
+  <div style="flex: 0 0 auto;">
+    <img src="/assets/images/PROFILE.jpg" alt="Ji-Young Kim profile photo" style="border-radius: 10px; width: 200px;">
+  </div>
 
-Welcome to my academic homepage.  
-You can find my publications, research interests, and contact information here.
+  <div style="flex: 1;">
+    <h2><strong>Hi, I'm Ji-Young Kim, a bioinformatics researcher.</strong></h2>
+    <p>
+      I am a Master’s student in Agricultural Convergence Technology at Jeonbuk National University.  
+      My research focuses on <strong>insect viromes</strong>, <strong>host–virus coevolution</strong>, and  
+      <strong>horizontal gene transfer</strong> using high-throughput sequencing and bioinformatics tools.
+    </p>
+    <p>
+      I analyze how viruses affect insect microbiomes and how symbiotic relationships evolve.  
+      My work aims to reveal novel viral diversity and its impact on host biology.
+    </p>
+  </div>
+
+</div>
+
+---
+
+### 📝 About this Site
+
+This website contains my publications, CV, research interests, and blog updates.  
+Feel free to navigate using the menu above!
