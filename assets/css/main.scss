@@ -8,13 +8,25 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// 🔍 프로필 이미지 크기 조정
 .author__avatar {
-  width: 160px;     // 기본은 100px, 더 크게
+  width: 160px;
   height: 160px;
   border-radius: 50%;
   margin-bottom: 1rem;
 }
 
+// ✅ 전체 컨테이너 레이아웃 확장
+.initial-content,
+.page {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 2rem; // 좌우 공백을 약간 유지 (선택사항)
+  margin: 0 auto;
+}
+
+// ✅ 본문 콘텐츠 폭 확장
 .page__content {
   max-width: 100% !important;
+  width: 100% !important;
 }
