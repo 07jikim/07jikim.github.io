@@ -5,30 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 🥇 First-Authored Publications
+<div style="background-color: #333; color: white; padding: 0.75em 1em; font-weight: bold; font-size: 1.2em;">
+🧬 First-Authored Publications
+</div>
 
----
+<div style="display: flex; gap: 1rem; margin: 1.5em 0;">
+  <img src="/assets/img/publications/cricket_virus.JPG" alt="Cricket Virus" style="width: 200px; border: 1px solid #ddd;" />
+  <div>
+    <strong>Crisis in South Korean cricket farms: Occurrence of <em>Gryllus bimaculatus</em> densovirus and its spread</strong><br>
+    Kim E\*, Koo HJ\*, <strong>Kim JY\*</strong>, Baek J, Kim CO, Park K, Yoon JS (2024)<br>
+    <em>Journal of Insects as Food and Feed</em>, 1(aop), 1–12.<br>
+    <strong>IF 4.7</strong> | Top 5% most-cited paper in the field<br>
+    📌 Metatranscriptomic data analysis and viral genome structure interpretation<br>
+    🔗 <a href="#">[PDF]</a>
+  </div>
+</div>
 
-### 🦗 **Crisis in South Korean cricket farms: Occurrence of _Gryllus bimaculatus_ densovirus and its spread**  
-Kim E\*, Koo HJ\*, **Kim JY\***, Baek J, Kim CO, Park K, Yoon JS  
-📄 *Journal of Insects as Food and Feed*, 2024, 1(aop), 1–12  
-🔗 [Publisher](https://doi.org/placeholder-link)  
-**IF (4.7)** | Top 5% most-cited paper in the field  
-🧪 *Contributed to metatranscriptomic data analysis and viral genome structure interpretation*
-
----
-
-### 🪲 **Complete genome sequence of an _Oryctes rhinoceros nudivirus_ isolated from Korean rhinoceros beetles (_Trypoxylus dichotomus_)**  
-Kim E\*, **Kim JY\***, Kim W, Lee S, Park KH, Yoon JS  
-📄 *Virus Research*, 2023, Vol. 335, 199167  
-🔗 [DOI](https://doi.org/10.1016/j.virusres.2023.199167)  
-**IF (5.0)**  
-🧬 *Virome assembly, annotation, and sequence validation from metagenomic data*
+<div style="display: flex; gap: 1rem; margin: 1.5em 0;">
+  <img src="/assets/img/publications/nudivirus.JPG" alt="Nudivirus" style="width: 200px; border: 1px solid #ddd;" />
+  <div>
+    <strong>Complete genome sequence of an <em>Oryctes rhinoceros nudivirus</em> isolated from Korean rhinoceros beetles</strong><br>
+    Kim E\*, <strong>Kim JY\*</strong>, Kim W, Lee S, Park KH, Yoon JS (2023)<br>
+    <em>Virus Research</em>, 335, 199167.<br>
+    <strong>IF 5.0</strong><br>
+    📌 Genome assembly and annotation using metagenomic data<br>
+    🔗 <a href="https://doi.org/10.1016/j.virusres.2023.199167">[DOI]</a>
+  </div>
+</div>
 
 ---
 
 ## 📌 Notes
-
-- `\*` indicates **co–first authorship**
-- Links will be updated with final DOI or article page
-- You can also find my works via [Google Scholar](https://scholar.google.com) or [ORCID](https://orcid.org/0000-0000-0000-0000)
+- `*` indicates co–first authorship  
+- For full list, please refer to my [ORCID](https://orcid.org/0000-0000-0000-0000)
