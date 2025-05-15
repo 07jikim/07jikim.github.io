@@ -33,3 +33,17 @@ classes: wide
 
 This website contains my publications, CV, research interests, and blog updates.  
 Feel free to navigate using the menu above!
+
+---
+
+### 🔗 Quick Links
+
+<div style="margin-top: 1rem;">
+  <ul style="list-style: none; padding-left: 0;">
+    <li>🔗 <a href="https://github.com/07jikim" target="_blank">GitHub</a></li>
+    <li>🔗 <a href="https://www.linkedin.com/in/ji-young-kim-744a34276/" target="_blank">LinkedIn</a></li>
+    <li>🔗 <a href="https://instagram.com/kim_jy0" target="_blank">Instagram</a></li>
+    <li>🔗 <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a></li>
+    <li>📧 <a href="mailto:07jikim@gmail.com">Email</a></li>
+  </ul>
+</div>
