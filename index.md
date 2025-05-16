@@ -6,6 +6,12 @@ author_profile: false
 classes: wide
 ---
 
+<style>
+  body, h1, h2, h3, h4, h5, h6, p, div, a, span {
+    font-family: Arial, "Times New Roman", serif !important;
+  }
+</style>
+
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
   <div style="flex: 0 0 auto;">
