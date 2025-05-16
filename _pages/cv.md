@@ -6,6 +6,9 @@ author_profile: true
 classes: wide-page
 ---
 
+<!-- meta refresh 리디렉션 -->
+<meta http-equiv="refresh" content="0; url=https://07jikim.github.io/jiyoung_Cv/" />
+
 <style>
 .cv-section-title {
   background-color: #f0f0f0;
@@ -105,4 +108,3 @@ Kim E\*, **Kim JY\***, et al. (2023). *Virus Research*, IF 5.0
 - **Languages**: Korean (Native), English (Professional)  
 - **Email**: 07jikim@gmail.com  
 - **Website**: [07jikim.github.io](https://07jikim.github.io)
-
