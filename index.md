@@ -44,12 +44,20 @@ Feel free to navigate using the menu above!
 
 ### 🔗 Quick Links
 
-<div style="margin-top: 1rem;">
-  <ul style="list-style: none; padding-left: 0;">
-    <li>🔗 <a href="https://github.com/07jikim" target="_blank">GitHub</a></li>
-    <li>🔗 <a href="https://www.linkedin.com/in/ji-young-kim-744a34276/" target="_blank">LinkedIn</a></li>
-    <li>🔗 <a href="https://instagram.com/kim_jy0" target="_blank">Instagram</a></li>
-    <li>🔗 <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a></li>
-    <li>📧 <a href="mailto:07jikim@gmail.com">Email</a></li>
-  </ul>
+<div style="text-align: center; margin-top: 1.5rem;">
+  <a href="https://github.com/07jikim" target="_blank" style="margin: 0 12px;">
+    <img src="/assets/icons/github.png" alt="GitHub" style="width: 36px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/ji-young-kim-744a34276/" target="_blank" style="margin: 0 12px;">
+    <img src="/assets/icons/linkedin.png" alt="LinkedIn" style="width: 36px;" />
+  </a>
+  <a href="https://instagram.com/kim_jy0" target="_blank" style="margin: 0 12px;">
+    <img src="/assets/icons/instagram.png" alt="Instagram" style="width: 36px;" />
+  </a>
+  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" style="margin: 0 12px;">
+    <img src="/assets/icons/orcid.png" alt="ORCID" style="width: 36px;" />
+  </a>
+  <a href="mailto:07jikim@gmail.com" style="margin: 0 12px;">
+    <img src="/assets/icons/email.png" alt="Email" style="width: 36px;" />
+  </a>
 </div>
