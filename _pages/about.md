@@ -5,6 +5,13 @@ permalink: /about/
 author_profile: true
 ---
 
+<style>
+  body, h1, h2, h3, h4, h5, h6, p, div, a, span {
+    font-family: Arial, "Times New Roman", serif !important;
+  }
+</style>
+
+
 ## Research Interests
 
 - 🧬 **Insect Viromes**  
