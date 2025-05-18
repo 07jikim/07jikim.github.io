@@ -30,18 +30,6 @@ h3 { margin-top: 0; margin-bottom: 0; padding-left: 5px; }
 <div class="black-box">🧬 First-Authored Publications</div>
 
 <div class="first-author">
-  <img src="/assets/img/publications/cricket_virus.JPG" alt="Cricket Virus" />
-  <div>
-    <strong>Crisis in South Korean cricket farms: Occurrence of <em>Gryllus bimaculatus</em> densovirus and its spread</strong><br>
-    Kim E*, Koo HJ*, <strong>Kim JY*</strong>, Baek J, Kim CO, Park K, Yoon JS (2024)<br>
-    <em>Journal of Insects as Food and Feed</em>, 1(aop), 1–12.<br>
-    <strong>IF 4.7</strong> | Top 5% most-cited paper in the field<br>
-    📌 Metatranscriptomic data analysis and viral genome structure interpretation<br>
-    🔗 <a href="#">[PDF]</a>
-  </div>
-</div>
-
-<div class="first-author">
   <img src="/assets/img/publications/nudivirus.JPG" alt="Nudivirus" />
   <div>
     <strong>Complete genome sequence of an <em>Oryctes rhinoceros nudivirus</em> isolated from Korean rhinoceros beetles</strong><br>
@@ -50,6 +38,20 @@ h3 { margin-top: 0; margin-bottom: 0; padding-left: 5px; }
     <strong>IF 5.0</strong><br>
     📌 Genome assembly and annotation using metagenomic data<br>
     🔗 <a href="https://doi.org/10.1016/j.virusres.2023.199167">[DOI]</a>
+  </div>
+</div>
+
+<div class="gray-box">🔬 Co-Authored Publications</div>
+
+<div class="first-author">
+  <img src="/assets/img/publications/cricket_virus.JPG" alt="Cricket Virus" />
+  <div>
+    <strong>Crisis in South Korean cricket farms: Occurrence of <em>Gryllus bimaculatus</em> densovirus and its spread</strong><br>
+    Kim E*, Koo HJ*, <strong>Kim JY</strong>, Baek J, Kim CO, Park K, Yoon JS (2024)<br>
+    <em>Journal of Insects as Food and Feed</em>, 1(aop), 1–12.<br>
+    <strong>IF 4.7</strong> | Top 5% most-cited paper in the field<br>
+    📌 Metatranscriptomic data analysis and viral genome structure interpretation<br>
+    🔗 <a href="#">[PDF]</a>
   </div>
 </div>
 
