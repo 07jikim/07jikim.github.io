@@ -3,20 +3,34 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
 <style>
-  body, h1, h2, h3, h4, h5, h6, p, div, a, span {
-    font-family: Arial, "Times New Roman", serif !important;
-  }
+h3 { margin-top: 0; margin-bottom: 0; padding-left: 5px; }
+.intro ul { margin-top: 4px; margin-bottom: 0; list-style-type: square; }
+.intro p { margin-top: 0; margin-bottom: 0; color: gray; font-size: 80%; }
+.black-box { background-color: #353535; color: white; padding-top: 15px; padding-bottom: 15px; }
+.gray-box { background-color: gray; color: white; padding-top: 15px; padding-bottom: 15px; }
+.first-author { display: flex; justify-content: flex-start; align-items: top; margin-top: 10px; margin-bottom: 30px; }
+.first-author img:not(.badge) { width: 300px; margin-right: 20px; }
+.first-author p { font-size: 80%; }
+.special-text { font-size: 125%; }
+.second-author { margin-top: 10px; padding-left: 5px; }
+.second-author p { font-size: 80%; padding-top: 5px; }
+.badges { display: flex; gap: 2px; margin-top: 5px; }
+.badges a { display: inline-block; }
+.badges img.badge { display: block; height: 20px; width: auto; }
+@media (max-width: 600px) {
+  .first-author { display: block; text-align: left; }
+  .first-author img { margin: 0 auto 15px; display: block; width: 100%; max-width: 300px; }
+}
 </style>
 
-<div style="background-color: #333; color: white; padding: 0.75em 1em; font-weight: bold; font-size: 1.2em;">
-🧬 First-Authored Publications
-</div>
+<div class="black-box">🧬 First-Authored Publications</div>
 
-<div style="display: flex; gap: 1rem; margin: 1.5em 0;">
-  <img src="/assets/img/publications/cricket_virus.JPG" alt="Cricket Virus" style="width: 200px; border: 1px solid #ddd;" />
+<div class="first-author">
+  <img src="/assets/img/publications/cricket_virus.JPG" alt="Cricket Virus" />
   <div>
     <strong>Crisis in South Korean cricket farms: Occurrence of <em>Gryllus bimaculatus</em> densovirus and its spread</strong><br>
     Kim E*, Koo HJ*, <strong>Kim JY*</strong>, Baek J, Kim CO, Park K, Yoon JS (2024)<br>
@@ -27,8 +41,8 @@ author_profile: true
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; margin: 1.5em 0;">
-  <img src="/assets/img/publications/nudivirus.JPG" alt="Nudivirus" style="width: 200px; border: 1px solid #ddd;" />
+<div class="first-author">
+  <img src="/assets/img/publications/nudivirus.JPG" alt="Nudivirus" />
   <div>
     <strong>Complete genome sequence of an <em>Oryctes rhinoceros nudivirus</em> isolated from Korean rhinoceros beetles</strong><br>
     Kim E*, <strong>Kim JY*</strong>, Kim W, Lee S, Park KH, Yoon JS (2023)<br>
@@ -39,8 +53,34 @@ author_profile: true
   </div>
 </div>
 
----
+<div class="gray-box">🔬 Co-Authored Publications</div>
 
-## 📌 Notes
-- `*` indicates co–first authorship  
-- For full list, please refer to my [ORCID](https://orcid.org/0000-0000-0000-0000).
+<p class="second-author">
+<strong>Extracellular vesicle-mediated transfer of miRNA-1 from primary tumor repress distant metastasis growth</strong><br>
+Kim C†, Lee K, Son KH, Shin T, & Cho J*. (2024) <em>Exp Mol Med</em> (Article, PDF)
+</p>
+
+<p class="second-author">
+<strong>ADAR1-dependent miR-3144-3p editing simultaneously induces MSI2 expression and suppresses SLC38A4 expression in liver cancer</strong><br>
+Kim HS†, Na MJ†, Son KH, Yang HD, Kim SY, Shin E, Ha JW, Jeon S, Kang K, Moon K, Park WS, & Nam SW*. (2023) <em>Exp Mol Med</em>
+</p>
+
+<p class="second-author">
+<strong>Senescence and impaired DNA damage responses in alpha-synucleinopathy models</strong><br>
+Yoon Y†, You JS†, Kim T, Ahn WJ, Kim MJ, Son KH, Ricarte D, Ortiz D, Lee S*, & Lee H*. (2022) <em>Exp Mol Med</em>
+</p>
+
+<p class="second-author">
+<strong>SMARCA4 oncogenic potential via IRAK1 enhancer to activate Gankyrin and AKR1B10 in liver cancer</strong><br>
+Kim SY†, Shen Q, Son K, Kim HS, Yang HD, Na MJ, Shin E, Yu S, Kang K, You JS, Yu K, Jeong SM, Lee EK, Ahn YM, Park WS, & Nam SW*. (2021) <em>Oncogene</em>
+</p>
+
+<p class="second-author">
+<strong>Transcriptome Signatures of Canine Mammary Gland Tumors and Its Comparison to Human Breast Cancers</strong><br>
+Lee K†, Park H†, Son KH, Shin T, & Cho J*. (2018) <em>Cancers (Basel)</em>
+</p>
+
+<div class="intro">
+<p>* Indicates corresponding author<br>† Indicates equal contribution</p>
+<p>For a full publication list, please visit my <a href="https://orcid.org/0000-0000-0000-0000">ORCID</a>.</p>
+</div>
