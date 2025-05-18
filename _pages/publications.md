@@ -53,33 +53,6 @@ h3 { margin-top: 0; margin-bottom: 0; padding-left: 5px; }
   </div>
 </div>
 
-<div class="gray-box">🔬 Co-Authored Publications</div>
-
-<p class="second-author">
-<strong>Extracellular vesicle-mediated transfer of miRNA-1 from primary tumor repress distant metastasis growth</strong><br>
-Kim C†, Lee K, Son KH, Shin T, & Cho J*. (2024) <em>Exp Mol Med</em> (Article, PDF)
-</p>
-
-<p class="second-author">
-<strong>ADAR1-dependent miR-3144-3p editing simultaneously induces MSI2 expression and suppresses SLC38A4 expression in liver cancer</strong><br>
-Kim HS†, Na MJ†, Son KH, Yang HD, Kim SY, Shin E, Ha JW, Jeon S, Kang K, Moon K, Park WS, & Nam SW*. (2023) <em>Exp Mol Med</em>
-</p>
-
-<p class="second-author">
-<strong>Senescence and impaired DNA damage responses in alpha-synucleinopathy models</strong><br>
-Yoon Y†, You JS†, Kim T, Ahn WJ, Kim MJ, Son KH, Ricarte D, Ortiz D, Lee S*, & Lee H*. (2022) <em>Exp Mol Med</em>
-</p>
-
-<p class="second-author">
-<strong>SMARCA4 oncogenic potential via IRAK1 enhancer to activate Gankyrin and AKR1B10 in liver cancer</strong><br>
-Kim SY†, Shen Q, Son K, Kim HS, Yang HD, Na MJ, Shin E, Yu S, Kang K, You JS, Yu K, Jeong SM, Lee EK, Ahn YM, Park WS, & Nam SW*. (2021) <em>Oncogene</em>
-</p>
-
-<p class="second-author">
-<strong>Transcriptome Signatures of Canine Mammary Gland Tumors and Its Comparison to Human Breast Cancers</strong><br>
-Lee K†, Park H†, Son KH, Shin T, & Cho J*. (2018) <em>Cancers (Basel)</em>
-</p>
-
 <div class="intro">
 <p>* Indicates corresponding author<br>† Indicates equal contribution</p>
 <p>For a full publication list, please visit my <a href="https://orcid.org/0000-0000-0000-0000">ORCID</a>.</p>
