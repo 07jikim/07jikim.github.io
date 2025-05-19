@@ -65,19 +65,6 @@ author_profile: true
   Training in statistical bioinformatics, July 2023
 
 ---
-
-## Research Experience
-
-- **Graduate Researcher**, *Insect Physiology & Molecular Biology Lab* (2023–Present)  
-  - Virome analysis of *Varroa destructor* using metagenomics  
-  - Assembly and annotation of RNA virus genomes  
-  - Contribution to domain annotation and phylogenetic analysis
-  - Insect breeding: *Gryllus bimaculatus*, *Oryctes rhinoceros*
-  - RNA extraction and RT-PCR from insects and mites  
-  - Insect breeding: *Gryllus bimaculatus*, *Oryctes rhinoceros*
-
----
-
 ## Contact
 
 Feel free to explore my [CV](/cv/), browse my [publications](/publications/), or reach out via [email](mailto:07jikim@gmail.com).
