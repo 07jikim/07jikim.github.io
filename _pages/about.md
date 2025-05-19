@@ -38,7 +38,6 @@ author_profile: true
 - **B.Sc., Agricultural Biology (2019–2023)**  
   Jeonbuk National University, Jeonju, South Korea  
   - Full scholarship (National Science & Technology Scholarship)  
-  - GPA 3.9 / 4.5 (Cumulative GPA 92.6 / 100)
 
 ---
 
