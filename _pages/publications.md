@@ -46,5 +46,4 @@ h3 { margin-top: 0; margin-bottom: 0; padding-left: 5px; }
 
 <div class="intro">
   <p>* Indicates corresponding author<br>† Indicates equal contribution</p>
-  <p>For a full publication list, please visit my <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a>.</p>
 </div>
