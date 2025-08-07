@@ -69,11 +69,6 @@ Feel free to navigate using the menu above!
   </div>
 
   <div style="text-align:center;">
-    <img src="/assets/icons/phone.png" alt="Phone" style="width:36px;">
-    <p>+82-xx-xxxx-xxxx</p>
-  </div>
-
-  <div style="text-align:center;">
     <img src="/assets/icons/email.png" alt="Email" style="width:36px;">
     <p><a href="mailto:07jikim@gmail.com">07jikim@gmail.com</a></p>
   </div>
