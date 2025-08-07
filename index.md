@@ -54,7 +54,7 @@ Feel free to navigate using the menu above!
   <a href="https://www.linkedin.com/in/ji-young-kim-744a34276/" target="_blank" style="margin: 0 12px;">
     <img src="/assets/icons/linkedin.png" alt="LinkedIn" style="width: 36px;" />
   </a>
-  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" style="margin: 0 12px;">
+  <a href="https://orcid.org/0009-0003-9156-7896" target="_blank" style="margin: 0 12px;">
     <img src="/assets/icons/orcid.png" alt="ORCID" style="width: 36px;" />
   </a>
 </div>
