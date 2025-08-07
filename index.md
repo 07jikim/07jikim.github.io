@@ -19,7 +19,7 @@ classes: wide
   </div>
 
   <div style="flex: 1;">
-    <h2><strong>Hi, I'm Ji-Young Kim, a bioinformatics researcher.</strong></h2>
+    <h2><strong>Hi, I'm Ji-Young Kim, a researcher.</strong></h2>
     <p>
       I am a Master’s student in Agricultural Convergence Technology at Jeonbuk National University.  
       My research focuses on <strong>insect viromes</strong>, <strong>host–virus coevolution</strong>, and  
