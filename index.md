@@ -61,12 +61,18 @@ Feel free to navigate using the menu above!
 
 ### 📬 Contact
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin-top:1.5rem;">
+<div style="text-align:center;">
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.8974173490087!2d127.1203723153182!3d35.84637818015283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35701984f8b11e8f%3A0xf90a8b209caa81c4!2z7KeE7ZWE7JuQIOu2gOyduOyKpA!5e0!3m2!1sko!2skr!4v1691662287391!5m2!1sko!2skr" 
+    width="100%" 
+    height="300" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
 
-  <div style="text-align:center;">
-    <img src="/assets/icons/location.png" alt="Location" style="width:36px;">
-    <p>Jeonbuk National University<br>Deokjin-gu, Jeonju, Republic of Korea</p>
-  </div>
 
   <div style="text-align:center;">
     <img src="/assets/icons/email.png" alt="Email" style="width:36px;">
