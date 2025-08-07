@@ -79,6 +79,4 @@ Feel free to navigate using the menu above!
     <p><a href="mailto:07jikim@gmail.com">07jikim@gmail.com</a></p>
   </div>
 
-</div>
-
 
