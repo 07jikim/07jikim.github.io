@@ -104,7 +104,7 @@ Kim E\*, **Kim JY\***, et al. (2023). *Virus Research*, IF 5.0
 
 <div class="cv-section-title">📜 Language & Contact</div>
 
-- **TEPS**: 359 (≈ TOEFL 103), Feb 2025, SNU Language Institute  
+- **TEPS**: 359, Feb 2025, SNU Language Institute  
 - **Languages**: Korean (Native), English (Professional)  
 - **Email**: 07jikim@gmail.com  
 - **Website**: [07jikim.github.io](https://07jikim.github.io)
