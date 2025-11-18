@@ -12,6 +12,8 @@ classes: wide
   }
 </style>
 
+<!--  ====== START: PROFILE IMAGE + INTRO SECTION (HIDDEN) ======
+
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
   <div style="flex: 0 0 auto;">
@@ -32,6 +34,8 @@ classes: wide
   </div>
 
 </div>
+
+====== END: PROFILE IMAGE + INTRO SECTION (HIDDEN) ====== -->
 
 ---
 
@@ -73,10 +77,7 @@ Feel free to navigate using the menu above!
   </iframe>
 </div>
 
-
-  <div style="text-align:center;">
-    <img src="/assets/icons/email.png" alt="Email" style="width:36px;">
-    <p><a href="mailto:07jikim@gmail.com">07jikim@gmail.com</a></p>
-  </div>
-
-
+<div style="text-align:center; margin-top: 1rem;">
+  <img src="/assets/icons/email.png" alt="Email" style="width:36px;">
+  <p><a href="mailto:07jikim@gmail.com">07jikim@gmail.com</a></p>
+</div>
